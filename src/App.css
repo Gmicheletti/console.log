@@ -7,3 +7,12 @@ html{
 .orange{
   color: #FF9100;
 }
+
+
+@font-face {
+  font-family: "Ki-Bold";
+  src: url("/assets/Ki-Bold.eot");
+  src: url("/assets/Ki-Bold.woff") format("woff"),
+  url("/assets/Ki-Bold.woff2") format("woff2"),
+  url("/assets/Ki-Bold.ttf") format("ttf");
+  }
